@@ -25,7 +25,6 @@ Api for Rolling Scopes School task "Async Race".
     - [Get Winners](https://github.com/mikhama/async-race-api#get-winners)
     - [Get Winner](https://github.com/mikhama/async-race-api#get-winner)
     - [Create Winner](https://github.com/mikhama/async-race-api#create-winner)
-    - [Delete Winner](https://github.com/mikhama/async-race-api#delete-winner)
     - [Update Winner](https://github.com/mikhama/async-race-api#update-winner)
 
 **Get Cars**
@@ -540,7 +539,7 @@ Returns json data about winners.
 
 **Get Winner**
 ----
-Returns json data about the specified winner.
+Returns json data about a specified winner.
 
 <details>
 
@@ -659,7 +658,7 @@ Creates a new records in the winners table.
 
 **Delete Winner**
 ----
-Delete the specified car from the winners table.
+Delete specified car from a garage
 
 <details>
 
